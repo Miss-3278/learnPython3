@@ -25,4 +25,4 @@ cheeses_and_crackers(10 + 20, 5 + 6)
 print("And we can combine the two, variables and math:")
 cheeses_and_crackers(amount_of_cheese + 100, amount_of_crackers + 1000)
 
-# 一个物件可以用=对其冥冥，通常也可以将其作为参数传递给一个函数
+# 一个物件可以用=对其命名，通常也可以将其作为参数传递给一个函数
